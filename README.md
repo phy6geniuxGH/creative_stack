@@ -1,2 +1,2 @@
 # Repository for my Creative Projects
-- Visual Arts
+- Visual Arts and Programming
