@@ -2,3 +2,4 @@
 - Visual Arts and Programming
 - p5js
 - three.js
+- MANIM library
