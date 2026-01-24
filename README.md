@@ -15,3 +15,5 @@
 - Desmos Geometry
 - Desmos 3D
 - Anime.js
+- MS PowerPoint
+- MS Excel
