@@ -17,3 +17,4 @@
 - Anime.js
 - MS PowerPoint
 - MS Excel
+- FLStudio
