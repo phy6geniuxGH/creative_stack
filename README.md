@@ -18,3 +18,4 @@
 - MS PowerPoint
 - MS Excel
 - FLStudio
+- MATLAB
